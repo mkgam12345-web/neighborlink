@@ -1,6 +1,6 @@
 -- NeighborLink Database Schema
-CREATE DATABASE IF NOT EXISTS neighborlink;
-USE neighborlink;
+
+USE railway;
 
 -- Users table
 CREATE TABLE IF NOT EXISTS users (
