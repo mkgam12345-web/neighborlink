@@ -1,0 +1,12 @@
+{
+  "name": "neighborlink",
+  "version": "1.0.0",
+  "description": "A full-stack web application for discovering and booking trusted local service providers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
